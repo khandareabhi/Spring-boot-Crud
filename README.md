@@ -41,12 +41,17 @@ All APIs are:
 
 src/main/java
 └── com.example.demo
+
 ├── controller
+
 │ └── StudentController.java
+
 ├── service
 │ └── StudentService.java
+
 ├── repository
 │ └── StudentRepository.java
+
 ├── model
 │ └── Student.java
 └── DemoApplication.java
