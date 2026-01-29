@@ -44,16 +44,20 @@ src/main/java
 
 ├── controller
 
-│ └── StudentController.java
+│ 
+└── StudentController.java
 
 ├── service
-│ └── StudentService.java
+│ 
+└── StudentService.java
 
 ├── repository
-│ └── StudentRepository.java
+│ 
+└── StudentRepository.java
 
 ├── model
-│ └── Student.java
+│
+└── Student.java
 └── DemoApplication.java
 
 
